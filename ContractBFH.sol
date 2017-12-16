@@ -1,5 +1,5 @@
 pragma solidity ^0.4.16;
-/*ghdhf*/
+
 /**
  * @title Контракт абсрактный
  * @dev
